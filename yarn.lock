@@ -459,6 +459,11 @@ tsconfig@^7.0.0:
     strip-bom "^3.0.0"
     strip-json-comments "^2.0.0"
 
+tsmonad@^0.8.0:
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/tsmonad/-/tsmonad-0.8.0.tgz#ce3cf13192f323db8f78c81f54a5f5bc4a2130fc"
+  integrity sha512-IABXc/jWe1//qZkRBUFj54ttp+xQsuUYcknuZZKv2rwqFfSj70UQZRhKQuGH/8zzILwM34DmXnsw0h3WkJbURw==
+
 typescript@^4.7.4:
   version "4.7.4"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.7.4.tgz#1a88596d1cf47d59507a1bcdfb5b9dfe4d488235"
